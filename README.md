@@ -12,3 +12,10 @@
     <td><img src="img/2.png" alt="After NaN removal" height= "200" , width="400"/></td>
   </tr>
 </table>
+<strong>2. Encoding Categorial Data </strong>
+<table>
+  <tr>
+    <td>  <img src="img/3.png" alt="Before OneHotEncoding" height="200", width="400"/></td>
+    <td><img src="img/4.png" alt="After OneHotEncoding" height= "200" , width="400"/></td>
+  </tr>
+</table>
