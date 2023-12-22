@@ -1,5 +1,6 @@
 # Data PreProcessing before ML
 
+<strong>1. Null Value Removal </strong>
 
 <table>
   <tr>
