@@ -17,10 +17,10 @@
 <table>
   <tr>
     <th align="center">Before</th>
-    <td><img src="img/3.png" alt="Before OneHotEncoding" style="height: 200px; width: 400px;"/></td>
+    <td><img src="img/3.png" alt="Before OneHotEncoding" style="height: 200px; width: 100%;"/></td>
   </tr>
   <tr>
     <th align="center">After</th>
-    <td><img src="img/4.png" alt="After OneHotEncoding" style="height: 200px; width: 400px;"/></td>
+    <td><img src="img/4.png" alt="After OneHotEncoding" style="height: 200px; width: 100%;"/></td>
   </tr>
 </table>
