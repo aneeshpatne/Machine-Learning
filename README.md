@@ -1,23 +1,26 @@
-# Data PreProcessing before ML
+#  Data PreProcessing before ML 
 
-<strong>1. Null Value Removal </strong>
 
+<h2>1. Null Value Removal</h2>
 <table>
-
   <tr>
-    <td align="center"><strong>Before</strong></td>
-    <td>  <img src="img/1.png" alt="Before NaN removal" height="200", width="400"/></td>
-    
+    <th align="center">Before</th>
+    <td><img src="img/1.png" alt="Before NaN removal" style="height: 200px; width: 100%;"/></td>
   </tr>
   <tr>
-   <td align="center"><strong>After</strong></td>
-   <td><img src="img/2.png" alt="After NaN removal" height= "200" , width="400"/></td>
-   </tr>
+    <th align="center">After</th>
+    <td><img src="img/2.png" alt="After NaN removal" style="height: 200px; width: 100%;"/></td>
+  </tr>
 </table>
-<strong>2. Encoding Categorial Data </strong>
+
+<h2>2. Encoding Categorial Data</h2>
 <table>
   <tr>
-    <td>  <img src="img/3.png" alt="Before OneHotEncoding" height="200", width="400"/></td>
-    <td><img src="img/4.png" alt="After OneHotEncoding" height= "200" , width="400"/></td>
+    <th align="center">Before</th>
+    <td><img src="img/3.png" alt="Before OneHotEncoding" style="height: 200px; width: 400px;"/></td>
+  </tr>
+  <tr>
+    <th align="center">After</th>
+    <td><img src="img/4.png" alt="After OneHotEncoding" style="height: 200px; width: 400px;"/></td>
   </tr>
 </table>
