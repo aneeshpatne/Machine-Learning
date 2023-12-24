@@ -28,7 +28,7 @@
 <h2>3. Splitting the data</h2>
 <table>
   <tr>
-    <th align="center">Before</th>
+    <th align="center">Data Shape</th>
     <td><img src="img/5.png" alt="Splitting of Data" style="height: 300px; width: 100%;"/></td>
   </tr>
 </table>
