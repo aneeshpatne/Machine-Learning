@@ -24,3 +24,11 @@
     <td><img src="img/4.png" alt="After OneHotEncoding" style="height: 200px; width: 100%;"/></td>
   </tr>
 </table>
+
+<h2>3. Splitting the data</h2>
+<table>
+  <tr>
+    <th align="center">Before</th>
+    <td><img src="img/5.png" alt="Splitting of Data" style="height: 300px; width: 100%;"/></td>
+  </tr>
+</table>
