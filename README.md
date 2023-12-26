@@ -32,3 +32,15 @@
     <td><img src="img/5.png" alt="Splitting of Data" style="height: 300px; width: 100%;"/></td>
   </tr>
 </table>
+
+<h2>4. Feature Scaling </h2>
+<table>
+  <tr>
+    <th align="center">Before</th>
+    <td><img src="img/7.png" alt="Before Feature Scaling" style="height: 200px; width: 100%;"/></td>
+  </tr>
+  <tr>
+    <th align="center">After</th>
+    <td><img src="img/6.png" alt="After Feature Scaling" style="height: 200px; width: 100%;"/></td>
+  </tr>
+</table>
