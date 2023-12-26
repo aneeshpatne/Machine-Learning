@@ -34,6 +34,7 @@
 </table>
 
 <h2>4. Feature Scaling </h2>
+Via Normalization
 <table>
   <tr>
     <th align="center">Before</th>
